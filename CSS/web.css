@@ -44,6 +44,13 @@ h1, h2 {
     color: #f5c77a;
     margin-bottom: 15px;
 }
+.logo img {
+    height: 100px;
+    width: auto;
+    display: block;
+    border: #132f4c;
+    margin-top: 10px;
+}
 
 img {
 display: flex;       
